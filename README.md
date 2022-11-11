@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Academic Career:
-- September 2007 - July 2010: Primary Education @ Volkshochschule "Am Sonnenteller" Dittelbrunn
-- September 2010 - July 2017: Secundary Education @ Alexander-von-Humboldt-Gymnasium Schweinfurt
+- September 2007 - July 2010: Elementary Education @ Volksschule "Am Sonnenteller" Dittelbrunn
+- September 2010 - July 2017: Secondary Education @ Alexander-von-Humboldt-Gymnasium Schweinfurt
 - August 2017 - August 2018: S6 @ Saint Davids R.C.H.S Dalkeith
   --> SQA Higher Qualifications in Computing Science, Mathematics, Chemistry, English and Physics
 - September 2018 - July 2020: Continued Secondary Education @ Alexander-von-Humboldt-Gymnasium Schweinfurt
