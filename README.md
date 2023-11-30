@@ -17,4 +17,6 @@ Academic Career:
   --> SQA Higher Qualifications in Computing Science, Mathematics, Chemistry, English and Physics
 - September 2018 - July 2020: Continued Secondary Education @ Alexander-von-Humboldt-Gymnasium Schweinfurt
   --> German General University Entrance Qualification with a Grade of 1.9
-- October 2020 - Present: Information Technology for Aerospace Applications, Bachelor of Science @ Julius Maximilians Universität Würzburg
+- October 2020 - October 2023: Aerospace Computer Science @ Julius Maximilians Universität Würzburg
+  --> Bachelor of Science with a Grade of 1.7
+- October 2023 - present: Master of Satellite Technology @ Julius Maximilians Universität Würzburg
